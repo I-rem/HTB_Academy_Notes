@@ -1,5 +1,5 @@
 # Fundamental Modules
-- [Intro To Academy](Modules/Intro%20To%20Academy)
+- [Intro To Academy](../Modules/Intro%20To%20Academy.md)
 # Learning Process
 We do not need to learn every programming language to understand how to read their code. All of them follow the same principles which R. D. Tennent initially defined:
 

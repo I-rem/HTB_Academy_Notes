@@ -1,3 +1,4 @@
+# Intro To Academy
 This module is a short and friendly introduction to the platform. Other than being the first step for practical side of things I also found this module to be a good start for getting your **mindset** right.
 
 ## Some good advice
